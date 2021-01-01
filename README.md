@@ -7,11 +7,9 @@ Make a shift to check multiple check box using vanilla javascript.
 - [x] Make a several input box.
 - [x] Some styling in main page.
 - [x] Add Function : When user click the check box the sentence line-through.
-- [ ]
 
 # Work Flow
 
 - [x] Make a several input box.
 - [x] Some styling in main page.
 - [x] Add Function : When user click the check box the sentence line-through.
-- [ ]
